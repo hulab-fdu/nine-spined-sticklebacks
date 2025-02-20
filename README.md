@@ -13,4 +13,3 @@
 
 #methylation.R: DNA methylation analysis
 
-#effectsize.R: estimate the effect size (partial eta, η2) of ecotype effect (i.e., marine and freshwater) on DEG/DSG/DEmiR/DMC in brain and liver
