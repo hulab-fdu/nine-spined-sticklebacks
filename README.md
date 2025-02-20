@@ -1,4 +1,4 @@
-# nine-spined-sticklebacks
+# The following scripts should be run in R
 #Average PSI and heatmap for brain DSG.R: plot the Average PSI and heatmap for differential spiced genes between ecotypes in brain
 
 #Average PSI and heatmap for liver DSG.R: plot the Average PSI and heatmap for differential spiced genes between ecotypes in liver
